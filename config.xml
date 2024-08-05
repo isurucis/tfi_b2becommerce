@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>b2becommerce</name>
+    <displayName><![CDATA[B2B Ecommerce]]></displayName>
+    <version><![CDATA[2.1.0]]></version>
+    <description><![CDATA[
+            This module enables the powerful feature of Business to Business Ecommerce in your shop.
+        ]]></description>
+    <author><![CDATA[FMM Modules]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall my module?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>
